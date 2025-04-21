@@ -14,18 +14,7 @@
 
 ---
 
-## 📁 Project Structure
 
-```
-nishant-tiwari24-cracker/
-├── ReadMe.md
-├── LICENSE
-├── main.py                 # Entry point (GUI logic)
-├── requirements.txt        # Python dependencies
-└── slide_extractor.py      # Slide extraction logic
-```
-
----
 
 ## 🧩 Requirements
 
